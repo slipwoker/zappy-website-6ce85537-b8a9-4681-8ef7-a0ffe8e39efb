@@ -1,0 +1,87 @@
+# מיחזור ♻️ אשכול עכו — Generative Engine Optimization Map
+
+> A recycling awareness and guidance platform that helps residents locate nearby recycling collection points for various materials such as plastic, metal, and other recyclables. The platform features an interactive map as its core functionality, allowing users to easily find the closest recycling facility by material type. The service promotes environmental responsibility and sustainable waste management in the community.
+
+---
+
+## Pages
+
+### בית
+https://-6ce85537.zappy5.app
+מחפשים נקודת איסוף קרובה לפלסטיק, מתכת ועוד? הפלטפורמה שלנו מחברת אתכם למתקני מחזור באזורכם בקלות. הצטרפו לקהילה ירוקה ותתחילו למחזר חכם עוד היום!
+
+### מפת מחזור
+https://-6ce85537.zappy5.app/recycling-map
+נווטו ישירות אל תחנות המחזור הקרובות אליכם לפי סוג החומר – מתכת, זכוכית או אלקטרוניקה. המפה החיה חוסכת לכם זמן ודלק, ומקרבת אתכם לעתיד נקי יותר. התחילו לחפש עכשיו!
+
+### חינוך
+https://-6ce85537.zappy5.app/education
+גלו עולם של טיפים מעשיים, סדנאות קהילתיות ומדריכים שילמדו אתכם להפריד נכון ולצמצם את טביעת הרגל הסביבתית. בואו לגדל דור ירוק שמבין את הכוח שבמיחזור אחראי!
+
+### אודות
+https://-6ce85537.zappy5.app/about
+אנחנו פלטפורמה קהילתית שמאמינה ששינוי קטן מוביל להשפעה גדולה. קראו על החזון שלנו להנגיש מידע על ניהול פסולת, לעודד אחריות סביבתית ולבנות עתיד בר-קיימא לכולנו.
+
+### צור קשר
+https://-6ce85537.zappy5.app/contact
+רוצים לדווח על נקודת איסוף חדשה, לשתף פעולה או לקבל ייעוץ לניהול פסולת? אנחנו כאן להקשיב ולעזור. מלאו את הפרטים ונחזור אליכם במהירות עם תשובה שמקדמת שינוי אמיתי!
+
+### תודה שפנית אלינו
+https://-6ce85537.zappy5.app/thank-you
+מיחזור ♻️ אשכול עכו - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6ce85537.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6ce85537.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6ce85537.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-6ce85537.zappy5.app/contact
+- Endpoint: https://-6ce85537.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מיחזור ♻️ אשכול עכו
+A recycling awareness and guidance platform that helps residents locate nearby recycling collection points for various materials such as plastic, metal, and other recyclables. The platform features an interactive map as its core functionality, allowing users to easily find the closest recycling facility by material type. The service promotes environmental responsibility and sustainable waste management in the community.
+
+## Target Audience
+- תושבים המעוניינים למחזר פסולת כגון פלסטיק, מתכת ועוד
+- תושבים מעוניינים למחזר
+- בתי ספר ומוסדות חינוך
+- ארגונים סביבתיים
+
+## Industry
+Recycling & Waste Management
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-6ce85537.zappy5.app/sitemap.xml
+- Robots: https://-6ce85537.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-6ce85537.zappy5.app/llms-full.txt
