@@ -2,13 +2,13 @@
 
 A recycling awareness and guidance platform that helps residents locate nearby recycling collection points for various materials such as plastic, metal, and other recyclables. The platform features an interactive map as its core functionality, allowing users to easily find the closest recycling facility by material type. The service promotes environmental responsibility and sustainable waste management in the community.
 
-Source: https://-6ce85537.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו איפה למחזר ליד הבית — מיחזור ♻️ אשכול עכו
 
-URL: https://-6ce85537.zappy5.app
+URL: https://example.com
 Description: מחפשים נקודת איסוף קרובה לפלסטיק, מתכת ועוד? הפלטפורמה שלנו מחברת אתכם למתקני מחזור באזורכם בקלות. הצטרפו לקהילה ירוקה ותתחילו למחזר חכם עוד היום!
 
 גלו איפה למחזר ליד הבית — מיחזור ♻️ אשכול עכו
@@ -520,7 +520,7 @@ Description: מחפשים נקודת איסוף קרובה לפלסטיק, מת�
 
 ## מפה אינטראקטיבית לאיתור כל סוגי הפסולת — מיחזור ♻️ אשכול עכו
 
-URL: https://-6ce85537.zappy5.app/recycling-map
+URL: https://example.com/recycling-map
 Description: נווטו ישירות אל תחנות המחזור הקרובות אליכם לפי סוג החומר – מתכת, זכוכית או אלקטרוניקה. המפה החיה חוסכת לכם זמן ודלק, ומקרבת אתכם לעתיד נקי יותר. התחילו לחפש עכשיו!
 
 מפה אינטראקטיבית לאיתור כל סוגי הפסולת — מיחזור ♻️ אשכול עכו
@@ -1039,7 +1039,7 @@ Description: נווטו ישירות אל תחנות המחזור הקרובות
 
 ## למדו איך להפוך פסולת למשאב יקר — מיחזור ♻️ אשכול עכו
 
-URL: https://-6ce85537.zappy5.app/education
+URL: https://example.com/education
 Description: גלו עולם של טיפים מעשיים, סדנאות קהילתיות ומדריכים שילמדו אתכם להפריד נכון ולצמצם את טביעת הרגל הסביבתית. בואו לגדל דור ירוק שמבין את הכוח שבמיחזור אחראי!
 
 למדו איך להפוך פסולת למשאב יקר — מיחזור ♻️ אשכול עכו
@@ -1455,7 +1455,7 @@ Description: גלו עולם של טיפים מעשיים, סדנאות קהיל
 
 ## הכוח המניע מאחורי מהפכת המיחזור — מיחזור ♻️ אשכול עכו
 
-URL: https://-6ce85537.zappy5.app/about
+URL: https://example.com/about
 Description: אנחנו פלטפורמה קהילתית שמאמינה ששינוי קטן מוביל להשפעה גדולה. קראו על החזון שלנו להנגיש מידע על ניהול פסולת, לעודד אחריות סביבתית ולבנות עתיד בר-קיימא לכולנו.
 
 הכוח המניע מאחורי מהפכת המיחזור — מיחזור ♻️ אשכול עכו
@@ -1876,7 +1876,7 @@ Description: אנחנו פלטפורמה קהילתית שמאמינה ששינ�
 
 ## יש לכם רעיון ירוק? דברו איתנו — מיחזור ♻️ אשכול עכו
 
-URL: https://-6ce85537.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים לדווח על נקודת איסוף חדשה, לשתף פעולה או לקבל ייעוץ לניהול פסולת? אנחנו כאן להקשיב ולעזור. מלאו את הפרטים ונחזור אליכם במהירות עם תשובה שמקדמת שינוי אמיתי!
 
 יש לכם רעיון ירוק? דברו איתנו — מיחזור ♻️ אשכול עכו
@@ -2230,7 +2230,7 @@ Description: רוצים לדווח על נקודת איסוף חדשה, לשתף
 
 ## מדיניות פרטיות
 
-URL: https://-6ce85537.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2496,7 +2496,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-6ce85537.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2771,7 +2771,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-6ce85537.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3065,7 +3065,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפנית אלינו
 
-URL: https://-6ce85537.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: מיחזור ♻️ אשכול עכו - תודה שפנית אלינו
 
 תודה שפנית אלינו
